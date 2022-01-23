@@ -49,5 +49,3 @@ newTodoInput.addEventListener("keyup", (event) => {
     todoList.innerHTML = todosLi;
   }
 });
-
-// Nuevo cambio Edward
